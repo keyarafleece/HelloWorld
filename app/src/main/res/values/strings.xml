@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="Hello_World_Intro">Hello World! My name is Keyara and I am a future Android Developer, wife and proud mom of 2! It is a pleasure to meet you!</string>
+    <string name="say_hey">Say Hey!</string>
+</resources>
