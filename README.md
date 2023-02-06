@@ -34,8 +34,9 @@ GIF created with ScreentoGif
 ## Notes
 
 Building this app was a fun refresher to Android development. Check out some of my other simple apps that I've made in the past:
-Pregnancy App:
-Dog App:
+
+Pregnancy App: https://github.com/keyarafleece/PregnancyApp
+Dog App: https://github.com/keyarafleece/DogAlbumProject1
 
 ## License
 
